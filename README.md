@@ -26,7 +26,7 @@
 [<img align="left" alt="Abdelrahman | linkedin" width="30px" height="28px" src="https://img.icons8.com/color/48/linkedin.png"/>][linkedin]
 [<img align="left" alt="Abdelrahman | blogger" width="30px" hight="28px" src="https://img.icons8.com/fluency/48/blogger.png" />][blogger]
 
-[gmail]: abodawead@gmail.com
+[gmail]: https://www.gmail.com/abodawead@gmail.com
 [linkedin]: http://www.linkedin.com/in/abdelrahman-adel-awead-alsead
 [blogger]: https://cysecruity.blogspot.com/
 

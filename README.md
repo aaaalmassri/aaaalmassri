@@ -22,11 +22,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="abodawead@gmail.com | gmail-new" width="26px" height="24px" src="https://img.icons8.com/color/48/gmail-new.png"/>][gmail]
+[<img align="left" alt="abodawead@gmail.com | " width="26px" height="24px" src="https://img.icons8.com/cute-clipart/64/twitter.png"/>][x]
 [<img align="left" alt="Abdelrahman | linkedin" width="30px" height="28px" src="https://img.icons8.com/color/48/linkedin.png"/>][linkedin]
 [<img align="left" alt="Abdelrahman | blogger" width="30px" hight="28px" src="https://img.icons8.com/fluency/48/blogger.png" />][blogger]
 
-[gmail]: https://www.gmail.com/
+[x]: https://twitter.com/A_Adel_Alsead
 [linkedin]: http://www.linkedin.com/in/abdelrahman-adel-awead-alsead
 [blogger]: https://cysecruity.blogspot.com/
 

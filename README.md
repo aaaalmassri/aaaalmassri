@@ -28,5 +28,5 @@
 
 [x]: https://twitter.com/A_Adel_Alsead
 [linkedin]: http://www.linkedin.com/in/abdelrahman-adel-awead-alsead
-[blogger]: https://cysecruity.blogspot.com/
+[mediu]: https://medium.com/@abodawead
 

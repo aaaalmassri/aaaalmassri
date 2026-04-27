@@ -24,9 +24,9 @@
 
 [<img align="left" alt="abodawead@gmail.com | " width="26px" height="24px" src="https://img.icons8.com/cute-clipart/64/twitter.png"/>][x]
 [<img align="left" alt="Abdelrahman | linkedin" width="30px" height="28px" src="https://img.icons8.com/color/48/linkedin.png"/>][linkedin]
-[<img align="left" alt="Abdelrahman | blogger" width="30px" hight="28px" src="https://img.icons8.com/fluency/48/blogger.png" />][blogger]
+[<img align="left" alt="Abdelrahman | blogger" width="30px" hight="28px" src="https://imgs.search.brave.com/ICsmHt2bQF3lkP5PKzNiu_IVaIhCnauQc-Z99Tlp1oU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL3ByZW1p/dW0vcG5nLTI1Ni10/aHVtYi9tZWRpdW0t/bG9nby1pY29uLXN2/Zy1kb3dubG9hZC1w/bmctNzE0NTEzOC5w/bmc_Zj13ZWJwJnc9/MTI4" />][blogger]
 
 [x]: https://twitter.com/A_Adel_Alsead
 [linkedin]: http://www.linkedin.com/in/abdelrahman-adel-awead-alsead
-[medium]: https://medium.com/@abodawead
+[medium]: https://medium.com/@abodawead/
 

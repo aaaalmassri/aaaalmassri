@@ -24,7 +24,7 @@
 
 [<img align="left" alt="abodawead@gmail.com | " width="26px" height="24px" src="https://img.icons8.com/cute-clipart/64/twitter.png"/>][x]
 [<img align="left" alt="Abdelrahman | linkedin" width="30px" height="28px" src="https://img.icons8.com/color/48/linkedin.png"/>][linkedin]
-[<img align="left" alt="Abdelrahman | linkedin" width="30px" height="28px" src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/medium-white-logo"/>][medium]
+[<img align="left" alt="Abdelrahman | linkedin" width="30px" height="28px" src="https://www.wunderdogs.co/thoughts-and-views/our-thoughts-on-the-most-recent-medium-rebrand"/>][medium]
 
 
 [x]: https://twitter.com/A_Adel_Alsead
